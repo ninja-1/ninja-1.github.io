@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               ninja1
+title:               ninja-1
 tagline:             'A personal blog'
 description:         'A personal blog'
 url:                 https://blog.daltonmiller.me
